@@ -9,7 +9,7 @@ text-align: center;
 text-shadow: 2px 2px 5px #FF3030;
 background-color: #FF6347;
 }
-aztec {
+body{
 background: 
        url(/example/image/right.png) repeat-y,
        url(/example/image/left.png) repeat-y  100% 0
