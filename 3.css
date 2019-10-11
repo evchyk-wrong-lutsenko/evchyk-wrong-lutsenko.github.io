@@ -1,9 +1,17 @@
 
 html{
-background: background-image: url(https://github.com/evchyk-wrong-lutsenko/evchyk-wrong-lutsenko.github.io/blob/master/left.png); background-position: left ; background-repeat: repeat-y; background-attachment: scroll; 
+background: 
+   background-image: url(hhttps://drive.google.com/thumbnail?id=1NubqRlhf1h4hm4cK_YoRon50jSi8Lbhu&authuser=3&sz=w1349-h614);
+   background-position: left ;
+   background-repeat: repeat-y; 
+   background-attachment: scroll; 
 }
    body{
-   background: background-image: url(https://github.com/evchyk-wrong-lutsenko/evchyk-wrong-lutsenko.github.io/blob/master/right.png); background-position: right ; background-repeat: repeat-y; background-attachment: scroll;
+   background: 
+      background-image: url(https://drive.google.com/thumbnail?id=1wmLUTQvLh-JClA0Mzx9Zc25ivjoLy62q&authuser=3&sz=w1349-h614);
+      background-position: right ; 
+      background-repeat: repeat-y; 
+      background-attachment: scroll;
 }
 
 p {
