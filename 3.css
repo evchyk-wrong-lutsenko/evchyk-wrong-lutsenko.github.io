@@ -12,5 +12,5 @@ background-color: #FF6347;
 aztec {
 background: 
        url(/example/image/right.png) repeat-y,
-      url(/example/image/left.png) repeat-y
+       url(/example/image/left.png) repeat-y  100% 0
 }
