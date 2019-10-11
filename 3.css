@@ -1,14 +1,14 @@
 
 html{
 background: 
-   background-image: url(left.png);
+   background-image: url(https://github.com/evchyk-wrong-lutsenko/evchyk-wrong-lutsenko.github.io/blob/master/left.png);
    background-position: left ;
    background-repeat: repeat-y; 
    background-attachment: scroll; 
 }
    body{
    background: 
-      background-image: url(right.png);
+      background-image: url(https://github.com/evchyk-wrong-lutsenko/evchyk-wrong-lutsenko.github.io/blob/master/right.png);
       background-position: right ; 
       background-repeat: repeat-y; 
       background-attachment: scroll;
