@@ -9,7 +9,8 @@ text-align: center;
 text-shadow: 2px 2px 5px #FF3030;
 background-color: #FF6347;
 }
-background: url(image/left.png) repeat-y, 
-url(image/bg-left.png) repeat-y 100%, #fc0;
-url(image/right.png) repeat-y, 
-url(image/bg-right.png) repeat-y 100%, #fc0;
+aztec {
+background: 
+       url(/example/image/right.png) repeat-y,
+      url(/example/image/left.png) repeat-y
+}
