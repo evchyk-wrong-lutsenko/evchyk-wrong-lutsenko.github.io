@@ -9,3 +9,6 @@ text-align: center;
 text-shadow: 2px 2px 5px #00FF00;
 background-color: #9AFF9A;
 }
+body{
+  linear-gradient(to top, #00FA9A , #FFB6C1);
+}
