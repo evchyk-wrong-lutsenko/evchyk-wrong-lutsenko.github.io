@@ -2,7 +2,7 @@
    body{
    background: url(left.png) repeat-y, 
   url(right.png) repeat-y right, #fc0;
-      margin-left: 5%
+   margin-left: 5px
 }
 
 p {
