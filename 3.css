@@ -2,9 +2,8 @@
    body{
    background: url(left.png) repeat-y, 
   url(right.png) repeat-y right;
-   blockquote: 25px left
 }
-
+tab{ margin-left: 25px }
 p {
 font-weight: initial;
 font-size: 24pt;
