@@ -2,7 +2,7 @@
    body{
    background: url(left.png) repeat-y, 
   url(right.png) repeat-y right;
-   margin-left: 25px
+   blockquote: 25px left
 }
 
 p {
