@@ -1,7 +1,6 @@
 
    body{
-   background: 
-      background-image: url(left.png) repeat-y, 
+   background: url(left.png) repeat-y, 
   url(right.png) repeat-y right, #fc0;
 }
 
